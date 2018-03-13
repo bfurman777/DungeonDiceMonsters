@@ -1,2 +1,4 @@
 # DungeonDiceMonsters
-Remake/spinoff of the classic Dungeon Dice Monsters game
+Remake/spinoff of the classic Dungeon Dice Monsters® game
+
+
